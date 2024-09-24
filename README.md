@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayantan Sen</h1>
-<h3 align="center">A passionate data analyst professional from India</h3>
+<h3 align="center">A passionate data analyst professional from India ~ 11 years overall experience - 2.11 Years as Data Analytics -3.4 Years as Business Analyst -4.7 Years as Financial Analyst</h3>
 
 - 📫 How to reach me **intouch.sen@gmail.com**
 
